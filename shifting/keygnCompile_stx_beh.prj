@@ -1,0 +1,6 @@
+verilog isim_temp "matrixx.v"
+verilog isim_temp "shifting.v"
+verilog isim_temp "sboxnew.v"
+verilog isim_temp "rcon.v"
+verilog isim_temp "keygnCompile.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

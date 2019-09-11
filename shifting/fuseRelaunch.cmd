@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/minor/shifting/finalKey_isim_beh.exe" -prj "D:/minor/shifting/finalKey_beh.prj" "work.finalKey" "work.glbl" 

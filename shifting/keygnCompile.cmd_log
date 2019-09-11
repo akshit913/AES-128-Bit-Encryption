@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/minor/shifting/keygnCompile.xst" -ofn "D:/minor/shifting/keygnCompile.syr" 
+xst -intstyle ise -ifn "D:/minor/shifting/keygnCompile.xst" -ofn "D:/minor/shifting/keygnCompile.syr" 
+xst -intstyle ise -ifn "D:/minor/shifting/keygnCompile.xst" -ofn "D:/minor/shifting/keygnCompile.syr" 

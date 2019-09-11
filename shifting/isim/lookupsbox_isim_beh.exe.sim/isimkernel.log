@@ -1,0 +1,29 @@
+Command line:
+   lookupsbox_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50178
+
+Tue Nov 07 14:22:21 2017
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 667.591 Meg
+
+ Total Signals          : 19
+ Total Nets             : 269
+ Total Signal Drivers   : 10
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 15
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 381
+Total Line Count : 1051
+
+ Total Simulation Time: 0.0936 sec
+
+ Current Memory Usage: 667.591 Meg
+
+Tue Nov 07 14:24:41 2017
+

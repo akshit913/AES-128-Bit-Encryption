@@ -1,0 +1,5 @@
+verilog work "matrixx.v"
+verilog work "shifting.v"
+verilog work "sboxnew.v"
+verilog work "rcon.v"
+verilog work "keygnCompile.v"

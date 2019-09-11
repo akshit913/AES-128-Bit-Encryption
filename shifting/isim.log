@@ -1,0 +1,37 @@
+ISim log file
+Running: D:\minor\shifting\finalKey_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/minor/shifting/finalKey_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 38.  For instance finalKey/cipherGen1/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey1.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 38.  For instance finalKey/cipherGen2/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey1.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 39.  For instance finalKey/cipherGen2/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey2.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 39.  For instance finalKey/cipherGen3/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey2.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 40.  For instance finalKey/cipherGen3/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey3.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 40.  For instance finalKey/cipherGen4/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey3.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 41.  For instance finalKey/cipherGen4/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey4.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 41.  For instance finalKey/cipherGen5/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey4.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 42.  For instance finalKey/cipherGen5/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey5.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 42.  For instance finalKey/cipherGen6/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey5.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 43.  For instance finalKey/cipherGen6/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey6.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 43.  For instance finalKey/cipherGen7/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey6.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 44.  For instance finalKey/cipherGen7/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey7.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 44.  For instance finalKey/cipherGen8/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey7.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 45.  For instance finalKey/cipherGen8/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey8.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 45.  For instance finalKey/cipherGen9/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey8.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 46.  For instance finalKey/cipherGen9/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey9.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 46.  For instance finalKey/cipherGen10/, width 128 of formal port keyInput is not equal to width 1 of actual signal rkey9.
+WARNING: File "D:/minor/shifting/finalKey.v" Line 47.  For instance finalKey/cipherGen10/, width 128 of formal port roundKey is not equal to width 1 of actual signal rkey10.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+WARNING: This is a limited version of the ISim. The current design has exceeded the design size limit for this version and the performance of the simulation will be derated. Please contact your nearest sales office at http://www.xilinx.com/company/contact.htm or visit the Xilinx on-line store at http://www.xilinx.com/onlinestore/design_resources.htm if interested in purchasing the full, unlimited version of this simulator.
+# isim force add /finalKey/keyIn 5468617473206D79204B756E67204675 -radix hex
+# isim force add /finalKey/xKey 001f0e543c4e08596e221b0b4774311a -radix hex
+# isim force add /finalKey/xKey 001f0e543c4e08596e221b0b4774311a -radix hex
+# run 1.00us

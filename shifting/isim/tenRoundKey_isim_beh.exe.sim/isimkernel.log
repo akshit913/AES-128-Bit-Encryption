@@ -1,0 +1,29 @@
+Command line:
+   tenRoundKey_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49161
+
+Sun Nov 19 11:22:39 2017
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 680.182 Meg
+
+ Total Signals          : 150
+ Total Nets             : 4877
+ Total Signal Drivers   : 78
+ Total Blocks           : 74
+ Total Primitive Blocks : 55
+ Total Processes        : 133
+ Total Traceable Variables  : 126
+ Total Scalar Nets and Variables : 9061
+Total Line Count : 9618
+
+ Total Simulation Time: 0.561603 sec
+
+ Current Memory Usage: 680.182 Meg
+
+Sun Nov 19 13:56:39 2017
+

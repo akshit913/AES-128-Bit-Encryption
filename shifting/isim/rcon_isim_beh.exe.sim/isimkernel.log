@@ -1,0 +1,29 @@
+Command line:
+   rcon_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50180
+
+Tue Nov 07 14:24:58 2017
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 667.57 Meg
+
+ Total Signals          : 15
+ Total Nets             : 397
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 773
+Total Line Count : 39
+
+ Total Simulation Time: 0.0936 sec
+
+ Current Memory Usage: 667.57 Meg
+
+Wed Nov 08 09:23:36 2017
+
